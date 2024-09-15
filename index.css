@@ -140,7 +140,7 @@ nav {
   }
   
   .responsive-container-block.bigContainer {
-    padding-top: 10px;
+    /* padding-top: 10px; */
     padding-right: 30px;
     padding-bottom: 10px;
     padding-left: 30px;
@@ -892,7 +892,7 @@ nav {
   }
   
   .text-blk.cardSubHeading {
-    color: rgb(153, 153, 153);
+    color: rgb(94, 92, 92);
     line-height: 22px;
   }
   
@@ -1623,7 +1623,7 @@ h1 {
 }
 .footer-column h3 {
     font-size: 1.2em;
-    color: #e67e22;
+    color:  rgb(0, 135, 177);
     margin-bottom: 20px;
 }
 .footer-column ul {
@@ -1640,7 +1640,7 @@ h1 {
     transition: color 0.3s;
 }
 .footer-column ul li a:hover {
-    color: #ffcc00;
+    color:  rgb(0, 135, 177);
 }
 .footer-bottom {
     text-align: center;
@@ -1649,7 +1649,7 @@ h1 {
     font-size: 0.9em;
 }
 .footer-bottom a {
-    color: #e67e22;
+    color:  rgb(0, 135, 177);
     text-decoration: none;
 }
 .footer-bottom a:hover {
